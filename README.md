@@ -7,8 +7,9 @@ The Project modules
 Module to extract wikipedia articles from web
 
 * Neural Network based NER System
+
   Pre Processing:
-  Module to process raw data and generate input files for traning neural network
+    Module to process raw data and generate input files for traning neural network
 
   NER Models: 
   1) In - Input Files for Neural Networks
