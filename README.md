@@ -1,5 +1,6 @@
 # NER-Kannada
-Named Entity Recognition for History data in Kannada Language
+Named Entity Recognition for data in Kannada Language
+
 
 The Project modules
 
