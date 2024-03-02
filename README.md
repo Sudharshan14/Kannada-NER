@@ -1,6 +1,6 @@
 # NER-Kannada
 Named Entity Recognition for data in Kannada Language
-
+The Data_ana.py file contains a comparison of the sources of data.
 
 The Project modules
 
