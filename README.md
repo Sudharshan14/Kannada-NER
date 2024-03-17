@@ -35,7 +35,7 @@ By contributing to this project, you agree to license your contributions under t
 
 2. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Sudharshan14/Kannada-NER.git
     cd your-repo
     ```
 
