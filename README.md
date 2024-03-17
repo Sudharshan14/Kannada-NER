@@ -20,6 +20,14 @@ This repository contains code for a BiLSTM (Bidirectional Long Short-Term Memory
     - `word_to_idx.json`: Mapping of words to numerical indices in JSON format.
     - `tag_to_idx.json`: Mapping of tags to numerical indices in JSON format.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+The MIT License is a permissive open-source license that allows you to use, modify, and distribute the code with very few restrictions. It also comes with no warranty or liability.
+
+By contributing to this project, you agree to license your contributions under the terms of the [MIT License](LICENSE).
+
 ## Instructions to Run:
 
 1. **Environment Setup:**
