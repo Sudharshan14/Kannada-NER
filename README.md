@@ -26,7 +26,9 @@ Named Entity Tags We utilized the following named entity tags for annotating nam
 
 In the initial phase of annotation, the corpus obtained from online resources underwent manual tagging with named entity tags. Thisprocess involved identifying and marking specific tokens within the text representing named entities such as names of persons,locations, organizations, time, and events. Each named entity tag provided information about the type and position of the named entity within the text. Subsequently, following the named entity tagging phase, each token in the annotated dataset was further tagged using the Begin, Inside, Outside (BIO) tagging scheme.This step facilitated the precise delineation of named entities by indicating the position of each token relative to the named entity boundaries. Tokens tagged with ’B’ indicated the beginning of a named entity, ’I’ indicated inside a named entity, and ’O’ indicated tokens that did not belong to any named entity.
 ## Dataset :
-The datasets can be downloaded using the following https://uwin365-my.sharepoint.com/:f:/g/personal/shantha2_uwindsor_ca/EroMtdS7QWZEomoMhvWV8pwBJL7HDnXgKfG02d73lHwRuQ?e=pN5aIL
+The datasets can be downloaded using the following
+
+https://uwin365-my.sharepoint.com/:f:/g/personal/shantha2_uwindsor_ca/EroMtdS7QWZEomoMhvWV8pwBJL7HDnXgKfG02d73lHwRuQ?e=pN5aIL
 
 ## Evalution:
 For the evaluation of the dataset we have used the BiLSTM model and compaired with KNERC(D. Sathyanarayanan, A. Ashok, D. Mishra, S. Chimalamarri and D. Sitaram, "Kannada Named Entity Recognition and Classification using Bidirectional Long Short-Term Memory Networks," 2018)
