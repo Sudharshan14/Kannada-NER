@@ -3,16 +3,27 @@ This repository contains manually annotaed  kannada dataset that has been carefu
 
 In the annotation scheme used for labeling named entities in Kannada text, we employed a systematic approach to identify and classify different types of named entities. This section provides a detailed description of the annotation scheme, including the tags utilized for labeling named entities.
 Named Entity Tags We utilized the following named entity tags for annotating named entities in Kannada text:
+
 • B-PER: Beginning of a person’s name
+
 • I-PER: Inside a person’s name
+
 • B-LOC: Beginning of a location name
+
 • I-LOC: Inside a location name
+
 • B-ORG: Beginning of an organization name
+
 • I-ORG: Inside an organization name
+
 • B-TME: Beginning of a time
+
 • B-EVT: Beginning of an event
+
 • I-EVT: Inside an event
+
 • O: Tokens that do not belong to any named entity
+
 In the initial phase of annotation, the corpus obtained from online resources underwent manual tagging with named entity tags. Thisprocess involved identifying and marking specific tokens within the text representing named entities such as names of persons,locations, organizations, time, and events. Each named entity tag provided information about the type and position of the named entity within the text. Subsequently, following the named entity tagging phase, each token in the annotated dataset was further tagged using the Begin, Inside, Outside (BIO) tagging scheme.This step facilitated the precise delineation of named entities by indicating the position of each token relative to the named entity boundaries. Tokens tagged with ’B’ indicated the beginning of a named entity, ’I’ indicated inside a named entity, and ’O’ indicated tokens that did not belong to any named entity.
 ## Dataset :
 The datasets can be downloaded using the following https://uwin365-my.sharepoint.com/:f:/g/personal/shantha2_uwindsor_ca/EroMtdS7QWZEomoMhvWV8pwBJL7HDnXgKfG02d73lHwRuQ?e=pN5aIL
