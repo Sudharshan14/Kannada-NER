@@ -1,5 +1,5 @@
 # KA-NER: A Kannada Named Entity Recognition Dataset
-This repository contains manually annotaed  kannada dataset that has been carefully assembled from various sources, such as Wikipedia, blogs, newspapers, and publications.Data Extraction involved systematically retrieving text passages, for which we utilized web scraping techniques, ensuring adherence to copyright and fair use policies.
+This repository contains manually annotated kannada dataset that has been carefully assembled from various sources, such as Wikipedia, blogs, newspapers, and publications.Data Extraction involved systematically retrieving text passages, for which we utilized web scraping techniques, ensuring adherence to copyright and fair use policies.
 
 In the annotation scheme used for labeling named entities in Kannada text, we employed a systematic approach to identify and classify different types of named entities. This section provides a detailed description of the annotation scheme, including the tags utilized for labeling named entities.
 Named Entity Tags We utilized the following named entity tags for annotating named entities in Kannada text:
