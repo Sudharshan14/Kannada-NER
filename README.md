@@ -33,7 +33,7 @@ https://uwin365-my.sharepoint.com/:f:/g/personal/shantha2_uwindsor_ca/EroMtdS7QW
 ## Evalution:
 For the evaluation of the dataset we have used the BiLSTM model and compaired with KNERC(D. Sathyanarayanan, A. Ashok, D. Mishra, S. Chimalamarri and D. Sitaram, "Kannada Named Entity Recognition and Classification using Bidirectional Long Short-Term Memory Networks," 2018)
 1. **Code Files:**
-    - `bilstm_model.py`: Python script containing the implementation of the BiLSTM model, data preprocessing functions, training loop, evaluation functions, and metric calculation.
+    - `Kannada-NER.ipynb`: Python script containing the implementation of the BiLSTM model, data preprocessing functions, training loop, evaluation functions, and metric calculation.
     
 2. **Data Files:**
     - `DATA/Kannada-train.txt`: Training data in Kannada language for NER task.
