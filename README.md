@@ -58,15 +58,16 @@ By contributing to this project, you agree to license your contributions under t
 
 ## Instructions to Run:
 
-1. **Environment Setup:**
-    - Ensure Python and required libraries (PyTorch, NumPy, scikit-learn, Matplotlib) are installed.
-
-2. **Clone the Repository:**
+1. **Clone the Repository:**
     ```bash
     git clone https://github.com/Sudharshan14/Kannada-NER.git
     cd your-repo
     ```
-
+2. **Environment Setup:**
+    - Ensure Python and required libraries (PyTorch, NumPy, scikit-learn, Matplotlib) using
+    ```bash
+      pip install -r requirements.txt
+    ```
 3. **Data Preparation:**
     - Make sure training and validation data files (`Kannada-train.txt`, `Kannada-validate.txt`) are in the `DATA` directory.
     
